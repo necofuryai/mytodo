@@ -11,6 +11,5 @@ assignees: 'necofuryai'
 ## Description
 
 1. To
-2. Do
 
 - [ ]
